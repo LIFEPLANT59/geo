@@ -58,3 +58,19 @@ main {
     text-align: center;
     margin: 10px 0;
 }
+
+hr {
+    border: 0;
+    border-top: 1px solid #334155;
+    margin: 15px 0;
+}
+
+#card p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+}
+
+#card strong {
+    color: #94a3b8;
+}
